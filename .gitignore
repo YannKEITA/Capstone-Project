@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VSCode
+.vscode/
+
+# Données sensibles
+*.sqlite3
+*.log
